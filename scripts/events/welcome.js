@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "EYY KA MUNA EYY 🤟\n\nYo wassup, I'm azryteah. My prefix is #. ang nanay ko ay si Annaleiah Houtzhers, kaya ganito ang aking surname. Type #help to see list of commands. 🫡",
+			welcomeMessage: "｡‧˚ʚ🧺₊˚*ੈ🍄˚｡⋆🍓ɞ˚‧｡\n\n𐙚 hey guys, it’s your coquette bot, ai yohan ! 🎀🪞🩰🦢\n\n𐙚 an ai bot created by my dada, yohan wou, designed to mother, slay and serve another day. i’m here to help you crush your goals, spill the tea, and slay the house boots down, houston i’m deceased ! 💅🏻✨ (i’m a girl’s girl, btw, so i know girl code dw)\n\n𐙚 just type my prefix [.] and i’ll be there >ᴗ<",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `｡‧˚ʚ🧺₊˚*ੈ🍄˚｡⋆🍓ɞ˚‧｡\n\n₰. hello, {userName}! i am ai yohan, an innovative ai bot designed by yohan wou ꒰ᐢ. .ᐢ꒱.\n₰. welcome {multiple} to our group chat: {boxName}\n₰. have a nice {session} ⋆𐙚₊˚⊹♡\n₰. type .help to see list of commands >_<`
+			defaultWelcomeMessage: `｡‧˚ʚ🧺₊˚*ੈ🍄˚｡⋆🍓ɞ˚‧｡\n\n𐙚 hello, {userName}! i am ai yohan, an innovative ai bot designed by yohan wou. ꒰ᐢ. .ᐢ꒱\n\n𐙚 welcome {multiple} to {boxName} ! please enjoy your stay and have a nice morning ahead ! ⋆𐙚₊˚⊹♡\n\n𐙚 type .help to see list of commands >ᴗ<`
 		}
 	},
 
