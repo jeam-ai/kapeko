@@ -29,7 +29,7 @@ module.exports = {
 			welcomeMessage: "EYY KA MUNA EYY 🤟\n\nYo wassup, I'm azryteah. My prefix is #. ang nanay ko ay si Annaleiah Houtzhers, kaya ganito ang aking surname. Type #help to see list of commands. 🫡",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `｡‧˚ʚ🧺₊˚*ੈ🍄˚｡⋆🍓ɞ˚‧｡\n\n₰. hello, {userName}! i am ai yohan, an innovative ai bot designed by yohan wou ꒰ᐢ. .ᐢ꒱.\n₰. welcome {multiple} to our group chat: {boxName}\n₰. have a nice {session} ⋆𐙚₊˚⊹♡\n₰. type .help to see list of commands >_<`
 		}
 	},
 
